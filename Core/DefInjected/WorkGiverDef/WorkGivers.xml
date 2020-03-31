@@ -422,16 +422,16 @@
   <LongRangeScan.verb>escanear</LongRangeScan.verb>
 
   <!-- EN: milk animals -->
-  <Milk.label>tira leite de animais</Milk.label>
+  <Milk.label>ordenha leite de animais</Milk.label>
   <!-- EN: milking -->
-  <Milk.gerund>tirando leite de</Milk.gerund>
+  <Milk.gerund>ordenhando leite de</Milk.gerund>
   <!-- EN: milk -->
-  <Milk.verb>tirar leite de</Milk.verb>
+  <Milk.verb>ordenhar leite de</Milk.verb>
 
   <!-- EN: mine -->
   <Mine.label>minera</Mine.label>
   <!-- EN: mining -->
-  <Mine.gerund>mirando</Mine.gerund>
+  <Mine.gerund>minerando</Mine.gerund>
   <!-- EN: mine -->
   <Mine.verb>minerar</Mine.verb>
 
@@ -534,7 +534,7 @@
   <Strip.verb>desvestir</Strip.verb>
 
   <!-- EN: take beer out of fermenting barrels -->
-  <TakeBeerOutOfFermentingBarrel.label>tira cerveja dos barris de fermentação</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.label>retira cerveja dos barris de fermentação</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
   <TakeBeerOutOfFermentingBarrel.gerund>pegando cerveja de</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer -->
