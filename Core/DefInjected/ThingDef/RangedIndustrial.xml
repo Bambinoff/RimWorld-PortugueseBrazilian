@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: assault rifle bullet -->
-  <Bullet_AssaultRifle.label>tiro de rifle de assalto</Bullet_AssaultRifle.label>
+  <Bullet_AssaultRifle.label>munição de rifle de assalto</Bullet_AssaultRifle.label>
   
   <!-- EN: autopistol bullet -->
-  <Bullet_Autopistol.label>tiro de pistola automática</Bullet_Autopistol.label>
+  <Bullet_Autopistol.label>munição de pistola automática</Bullet_Autopistol.label>
   
   <!-- EN: bolt-action rifle bullet -->
-  <Bullet_BoltActionRifle.label>tiro de espingarda de repetição</Bullet_BoltActionRifle.label>
+  <Bullet_BoltActionRifle.label>munição de espingarda de repetição</Bullet_BoltActionRifle.label>
   
   <!-- EN: EMP launcher shell -->
   <Bullet_EMPLauncher.label>lançador de granadas PEM</Bullet_EMPLauncher.label>
   
   <!-- EN: heavy SMG bullet -->
-  <Bullet_HeavySMG.label>tiro de submetralhadora pesada</Bullet_HeavySMG.label>
+  <Bullet_HeavySMG.label>munição de submetralhadora pesada</Bullet_HeavySMG.label>
   
   <!-- EN: incendiary bolt -->
   <Bullet_IncendiaryLauncher.label>projétil incendiário</Bullet_IncendiaryLauncher.label>
   
   <!-- EN: LMG bullet -->
-  <Bullet_LMG.label>tiro de metralhadora leve</Bullet_LMG.label>
+  <Bullet_LMG.label>munição de metralhadora leve</Bullet_LMG.label>
   
   <!-- EN: machine pistol bullet -->
-  <Bullet_MachinePistol.label>tiro de submetralhadora</Bullet_MachinePistol.label>
+  <Bullet_MachinePistol.label>munição de submetralhadora</Bullet_MachinePistol.label>
   
   <!-- EN: minigun bullet -->
-  <Bullet_Minigun.label>tiro de minigun</Bullet_Minigun.label>
+  <Bullet_Minigun.label>munição de minigun</Bullet_Minigun.label>
   
   <!-- EN: revolver bullet -->
-  <Bullet_Revolver.label>tiro de revólver</Bullet_Revolver.label>
+  <Bullet_Revolver.label>munição de revólver</Bullet_Revolver.label>
   
   <!-- EN: shotgun blast -->
   <Bullet_Shotgun.label>cartucho de espingarda</Bullet_Shotgun.label>
@@ -38,7 +38,7 @@
   <Bullet_SmokeLauncher.label>lançador de granadas de fumaça</Bullet_SmokeLauncher.label>
   
   <!-- EN: sniper rifle bullet -->
-  <Bullet_SniperRifle.label>tiro de rifle de precisão</Bullet_SniperRifle.label>
+  <Bullet_SniperRifle.label>munição de rifle de precisão</Bullet_SniperRifle.label>
   
   <!-- EN: assault rifle -->
   <Gun_AssaultRifle.label>rifle de assalto</Gun_AssaultRifle.label>
