@@ -45,7 +45,7 @@
   <!-- EN: A general-purpose gas-operated assault rifle for field or urban combat. It has good range, decent power, and good accuracy. -->
   <Gun_AssaultRifle.description>Um rifle de assalto operado a gás de propósito geral para combate urbano ou em campo. Tem bom alcance, dano decente, e boa precisão.</Gun_AssaultRifle.description>
   <!-- EN: stock -->
-  <Gun_AssaultRifle.tools.stock.label>punho</Gun_AssaultRifle.tools.stock.label>
+  <Gun_AssaultRifle.tools.stock.label>coronha</Gun_AssaultRifle.tools.stock.label>
   <!-- EN: barrel -->
   <Gun_AssaultRifle.tools.barrel.label>carregador</Gun_AssaultRifle.tools.barrel.label>
   <!-- EN: assault rifle -->
@@ -56,7 +56,7 @@
   <!-- EN: An ancient pattern blowback-operated self-loading pistol. It lacks stopping power and range, but is quick to fire. -->
   <Gun_Autopistol.description>Uma pistola antiga automática. Ela carece de poder de parada e alcance, mas é rápida para disparar.</Gun_Autopistol.description>
   <!-- EN: grip -->
-  <Gun_Autopistol.tools.grip.label>cabo</Gun_Autopistol.tools.grip.label>
+  <Gun_Autopistol.tools.grip.label>punho</Gun_Autopistol.tools.grip.label>
   <!-- EN: barrel -->
   <Gun_Autopistol.tools.barrel.label>carregador</Gun_Autopistol.tools.barrel.label>
   <!-- EN: autopistol -->
@@ -100,7 +100,7 @@
   <!-- EN: A compact, wide-caliber slug-thrower. It's got a very short range, but it packs a punch and handles quite well. -->
   <Gun_HeavySMG.description>Uma submetralhadora compacta e de grande calibre. Ela tem um alcance muito curto, porém é muito potente.</Gun_HeavySMG.description>
   <!-- EN: grip -->
-  <Gun_HeavySMG.tools.grip.label>punho</Gun_HeavySMG.tools.grip.label>
+  <Gun_HeavySMG.tools.grip.label>coronha</Gun_HeavySMG.tools.grip.label>
   <!-- EN: barrel -->
   <Gun_HeavySMG.tools.barrel.label>carregador</Gun_HeavySMG.tools.barrel.label>
   <!-- EN: heavy SMG -->
@@ -122,7 +122,7 @@
   <!-- EN: A gas-operated light machine gun. While it is somewhat unwieldy and inaccurate, its long bursts of fire are effective against groups of enemies. -->
   <Gun_LMG.description>Uma metralhadora leve operada a gás. Embora seja um pouco pesada e imprecisa, suas longas rajadas de tiro são eficazes contra grupos de inimigos.</Gun_LMG.description>
   <!-- EN: stock -->
-  <Gun_LMG.tools.stock.label>punho</Gun_LMG.tools.stock.label>
+  <Gun_LMG.tools.stock.label>coronha</Gun_LMG.tools.stock.label>
   <!-- EN: barrel -->
   <Gun_LMG.tools.barrel.label>carregador</Gun_LMG.tools.barrel.label>
   <!-- EN: LMG -->
